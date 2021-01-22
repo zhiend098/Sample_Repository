@@ -3,8 +3,4 @@ Bananas
 Grapes
 Oranges
 Chicken
-<<<<<<< HEAD
-Delete this if there is error
-=======
-delete
->>>>>>> 787a0fd071a56067d14577030b6eebcc767000c3
+
