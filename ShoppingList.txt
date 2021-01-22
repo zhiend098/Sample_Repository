@@ -3,5 +3,4 @@ Bananas
 Grapes
 Oranges
 Chicken
-Fish
-Bat meat
+
